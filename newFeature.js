@@ -1,0 +1,3 @@
+function newFeature() {
+    return 'newFeature';
+}
